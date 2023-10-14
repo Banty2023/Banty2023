@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Banty2023
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Coding and every aspect of programming
+- 🌱 I’m currently learning ... Beginner
+- 💞️ I’m looking to collaborate on ... all subjects and topics
 - 📫 How to reach me ... danielmwisdom097@gmail.com
 
 <!---
